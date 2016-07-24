@@ -1,0 +1,25 @@
+{
+  "name": "int32-fnv1a",
+  "version": "1.0.0",
+  "description": "A 32 bit FNV-1a hash algorithm implementation that takes an Int32 input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josepot/int32-fnv1a.git"
+  },
+  "keywords": [
+    "hash",
+    "fnv1a",
+    "int32",
+    "algorithm"
+  ],
+  "author": "Josep M Sobrepere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josepot/int32-fnv1a/issues"
+  },
+  "homepage": "https://github.com/josepot/int32-fnv1a#readme"
+}
