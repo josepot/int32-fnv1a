@@ -1,7 +1,7 @@
 {
   "name": "int32-fnv1a",
-  "version": "1.0.0",
-  "description": "A 32 bit FNV-1a hash algorithm implementation that takes an Int32 input.",
+  "version": "1.0.1",
+  "description": "A 32 bit FNV-1a hash algorithm implementation that takes an Int32 as an input.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
